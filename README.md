@@ -1,19 +1,34 @@
-<h1> Redux_Crud </h1>
+# Redux CRUD Task Manager
 
-I've independently designed and coded a responsive Redux_Crud website, and it's ready to explore!
+A task management application built with React and Redux Toolkit that allows users to create, update, and manage tasks efficiently.
 
-🔸 Project Name: Redux_Crud Website
+## 🚀 Tech Stack
+- React
+- Redux Toolkit
+- React Redux
+- React Router DOM
+- Bootstrap
+- React Bootstrap
+- JSON Server
 
-🔸 Technologies Used: React, Redux Toolkit, React Redux, React Router Dom, Bootstrap, React Bootstrap
+## 🔐 Features
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- View tasks in a dynamic list
+- Responsive interface for multiple devices
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. CRUD project includes adding, editing and deleting features created with react redux and used json server and react vite library.
+## 🧠 Architecture & Focus
+- Global state management with Redux Toolkit
+- RESTful API simulation using JSON Server
+- Component-based React architecture
+- Clean routing structure with React Router
+- Responsive UI using Bootstrap
 
-🔸 Functions:
-- Adding: Users can add new tasks.
-- Update: Users can update existing tasks.
-- Delete: Users can delete existing tasks.
-- Listing: Users can view the tasks they added in a list.
-
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_redux_crud.gif)
+
+## 💡 Future Improvements
+- Authentication system
+- Task categories
+- Backend database integration
